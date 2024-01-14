@@ -8,6 +8,7 @@ It can store information of thousands of patients which can easily be maintained
 ## FEATURES OF THE PROGRAM: 
 - LOGIN:
 The system has its own login system where it will only accept correct input of username and password by the administrator otherwise it will generate an error and ask the admin to re-enter his username and password. After entering password and username correctly menu of the system will be opened
+
 ![image](https://github.com/Rayyan3079/Hospital-Management-System/assets/124567636/a64f0b49-81d1-4a2b-a0c8-7b2289e7f3fc)
 
 - MENU:
